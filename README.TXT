@@ -1,5 +1,5 @@
 Hello Consumer! Welcome to Monopoly, the game of greed! By now you've noticed the .jar file doesn't
-really work. We can't explain that. However, within BlueJ the project works like a charm.
+really work. We can't explain that (neither can our professor). However, within BlueJ the project works like a charm.
 
 
 (1) Start by launching the program, what should now appear is a menu screen with a giant START GAME button.
@@ -37,7 +37,7 @@ the appropriate action will take place.
 (10) To mortgage a property, simply Right Click a property. A window will open asking if you really want to
 proceed with mortgaging or unmortgaging. If it's applicable, the appropriate action will take place.
 
-(11) To trade, you must by the Deelucks version of Monopoly, sorry!
+(11) To trade, you must buy the Deelucks Version of Monopoly, sorry!
 
  - Program by Nicholas "Cashew" Smit and Lukas "Two Sheds" Edman
  
