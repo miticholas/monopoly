@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dice()
+comment0.text=\r\n\ Constructor\ for\ the\ Dice\ class.\r\n
+comment1.params=
+comment1.target=int\ getRoll()
+comment1.text=\r\n\ Gets\ the\ roll\ associated\ with\ the\ die.\r\n\ @return\ The\ integer\ roll\ value\r\n
+comment2.params=
+comment2.target=int\ roll()
+comment2.text=\r\n\ Rolls\ the\ die,\ returns\ the\ roll\ value.\r\n\ @return\ The\ integer\ roll\ value\r\n
+numComments=3

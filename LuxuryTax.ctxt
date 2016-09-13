@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=manager
+comment0.target=LuxuryTax(SquaresManager)
+comment0.text=\r\n\ The\ Constructor\ for\ the\ LuxuryTax\ Class.\r\n\ @param\ manager\ The\ SquareManager\ in\ charge\ of\ this\ square\r\n
+comment1.params=player
+comment1.target=boolean\ payTax(Player)
+comment1.text=\r\n\ A\ popup\ Option\ Menu\ tells\ players\ to\ confirm\ they\ just\ lost\ for\ living\ luxurious.\r\n\ @param\ player\ The\ player\ who\ is\ faced\ with\ the\ fee\r\n\ @return\ A\ boolean\ of\ whether\ they\ could\ pay\ or\ not\r\n
+comment2.params=player
+comment2.target=boolean\ useSquare(Player)
+comment2.text=\r\n\ Directs\ the\ overriden\ useSquare\ method\ to\ the\ specific\ square's\ ability.\r\n\ @param\ player\ The\ player\ who\ is\ using\ the\ square's\ ability\r\n\ @return\ A\ boolean\ of\ whether\ they\ could\ pay\ or\ not\r\n
+numComments=3

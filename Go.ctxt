@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=manager
+comment0.target=Go(SquaresManager)
+comment0.text=\r\n\ The\ Constructor\ for\ the\ Property\ Class.\r\n\ @param\ manager\ The\ SquareManager\ in\ charge\ of\ this\ square\r\n
+comment1.params=player
+comment1.target=void\ passGo(Player)
+comment1.text=\r\n\ Gives\ $200\ to\ the\ parametered\ player.\ A\ popup\ Option\ menu\ tells\ people\ to\r\n\ confirm\ they\ just\ won\ big.\r\n\ @param\ player\ The\ player\ who\ landed\ on\ the\ square\r\n
+comment2.params=player
+comment2.target=boolean\ useSquare(Player)
+comment2.text=\r\n\ Directs\ the\ overriden\ useSquare\ method\ to\ the\ specific\ square's\ ability.\r\n\ @param\ player\ The\ player\ who\ is\ using\ the\ square's\ ability\r\n\ @return\ A\ boolean\ of\ whether\ they\ could\ pay\ or\ not\r\n
+numComments=3

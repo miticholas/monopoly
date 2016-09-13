@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=cardSorter
+comment0.target=RailRoadCard(CardSorter)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ RailRoadCard\r\n\ @param\ cardSorter\ The\ CardSorter\ in\ charge\ of\ this\ card\r\n
+comment1.params=factor
+comment1.target=void\ setFactor(int)
+comment1.text=\r\n\ Sets\ the\ factor\ price\ to\ be\ removed\ from\ the\ player.\r\n\ @param\ factor\ The\ integer\ factor\ to\ be\ associated\ with\ this\ card\r\n
+comment2.params=
+comment2.target=boolean\ play()
+comment2.text=\r\n\ The\ special\ ability\ of\ this\ card.\ Moves\ the\ player\ to\ the\ Nearest\ RailRoad\ then\ charges\r\n\ them\ a\ factor\ if\ the\ don't\ own\ it.\r\n\ @return\ A\ boolean\ of\ whether\ it\ worked\ or\ not\r\n
+numComments=3

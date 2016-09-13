@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=game
+comment0.target=LeftPanel(Game)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LeftPanel\r\n
+comment1.params=panel
+comment1.target=void\ addSidePanels(javax.swing.JPanel)
+comment1.text=\r\n\ A\ static\ method\ that\ creates\ a\ buffer\ zone\ of\ Jpanels\ around\ the\ specified\ JPanel.\r\n\ @param\ panel\ The\ JPanel\ who\ we're\ adding\ sidePanels\ to\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ When\ a\ player\ clicks\ a\ card\ button\ they\ activate\ that\ cards\ play\ ability.\r\n\ @param\ e\ An\ ActionEvent\ that\ gets\ sent\r\n
+comment3.params=player
+comment3.target=void\ card(Player)
+comment3.text=\r\n\ Updates\ the\ Card\ label\ to\ display\ the\ cards\ in\ the\ current\ player's\ hand.\r\n\ @param\ player\ The\ current\ player\ whose\ cards\ we're\ showing\r\n
+comment4.params=player
+comment4.target=void\ money(Player)
+comment4.text=\r\n\ Updates\ the\ money\ label\ to\ display\ the\ money\ the\ player\ has.\r\n
+comment5.params=player
+comment5.target=void\ name(Player)
+comment5.text=\r\n\ Updates\ the\ name\ label\ to\ display\ the\ current\ player's\ name.\r\n
+comment6.params=player
+comment6.target=void\ property(Player)
+comment6.text=\r\n\ Updates\ the\ property\ label\ to\ display\ the\ property\ the\ current\ player\ owns.\r\n
+numComments=7

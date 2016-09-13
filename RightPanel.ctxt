@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=game
+comment0.target=RightPanel(Game)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ RightPanel\r\n\ @param\ game\ the\ game\ class\ that\ has\ the\ methods\ for\ the\ buttons\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ Gives\ a\ function\ to\ all\ the\ buttons\r\n
+comment2.params=
+comment2.target=void\ mustSellPane()
+comment2.text=\r\n\ Prompts\ a\ pane\ that\ says\ you\ must\ sell\ stuff\ before\ doing\ something\ else\r\n
+comment3.params=
+comment3.target=javax.swing.ImageIcon[]\ loadIcons()
+comment3.text=\r\n\ Loads\ icons\ for\ buttons\r\n
+numComments=4

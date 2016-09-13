@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=cardSorter
+comment0.target=RepairsCard(CardSorter)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ HouseCard.\r\n\ @param\ cardSorter\ The\ CardSorter\ in\ charge\ of\ this\ card\r\n
+comment1.params=price
+comment1.target=void\ setHouse(int)
+comment1.text=\r\n\ Sets\ the\ price\ of\ the\ house\ fee.\r\n\ @param\ price\ The\ integer\ fee\ associated\ with\ a\ house\r\n
+comment2.params=price
+comment2.target=void\ setHotel(int)
+comment2.text=\r\n\ Sets\ the\ price\ of\ the\ hotel\ fee.\r\n\ @param\ price\ The\ integer\ fee\ associated\ with\ a\ hotel\r\n
+comment3.params=
+comment3.target=boolean\ play()
+comment3.text=\r\n\ The\ special\ ability\ of\ this\ card.\ The\ player\ who\ drew\ this\ card\ must\ pay\ for\ the\ number\ of\ hotels\ and\r\n\ houses\ they\ own.\r\n\ @return\ A\ boolean\ of\ whether\ it\ worked\ or\ not\r\n
+numComments=4

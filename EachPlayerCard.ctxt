@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=cardSorter
+comment0.target=EachPlayerCard(CardSorter)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ EachPlayerCard\r\n\ @param\ cardSorter\ The\ CardSorter\ in\ charge\ of\ this\ card\r\n
+comment1.params=cost
+comment1.target=void\ setCost(int)
+comment1.text=\r\n\ Sets\ the\ cost\ to\ the\ parametered\ amount.\r\n\ @param\ cost\ The\ integer\ cost\ of\ this\ specfic\ card\r\n
+comment2.params=
+comment2.target=boolean\ play()
+comment2.text=\r\n\ The\ special\ ability\ of\ this\ card.\ Takes/gives\ money\ from/to\ all\ other\ players\ and\ gives/takes\ to/away\r\n\ the\ player\ who\ drew\ the\ card.\r\n\ @return\ A\ boolean\ of\ whether\ it\ worked\ or\ not\r\n
+numComments=3

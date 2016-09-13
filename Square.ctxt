@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=manager
+comment0.target=Square(SquaresManager)
+comment0.text=\r\n\ Constructor\ for\ the\ Square\ Class.\r\n\ @param\ manager\ The\ SquaresManager\ in\ charge\ of\ all\ squares\ on\ the\ board\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Gets\ the\ name\ of\ the\ square.\r\n\ @return\ The\ String\ representation\ of\ the\ name\r\n
+comment2.params=
+comment2.target=int\ getPosition()
+comment2.text=\r\n\ Gets\ the\ tile\ position\ of\ this\ Square\ on\ the\ board.\r\n\ @return\ The\ integer\ associated\ with\ this\ tile\r\n
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\r\n\ Sets\ the\ name\ of\ the\ square.\r\n\ @param\ name\ The\ String\ name\ to\ be\ given\ to\ the\ square\r\n
+comment4.params=tile
+comment4.target=void\ setPosition(int)
+comment4.text=\r\n\ Sets\ the\ tile\ number\ of\ this\ Square\ on\ the\ board.\r\n\ @param\ tile\ The\ integer\ position\ this\ square\ will\ be\ in\ on\ the\ board\r\n
+comment5.params=player
+comment5.target=boolean\ useSquare(Player)
+comment5.text=\r\n\ A\ method\ to\ be\ overriden\ where\ the\ specific\ square\ says\ what\ is\ to\ happen\ on\ when\ it's\ used.\r\n\ @param\ player\ The\ player\ who\ is\ using\ the\ square\r\n\ @return\ A\ boolean\ of\ whether\ it\ worked\ or\ not\r\n
+numComments=6

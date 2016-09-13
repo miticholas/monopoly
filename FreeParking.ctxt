@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=manager
+comment0.target=FreeParking(SquaresManager)
+comment0.text=\r\n\ The\ Constructor\ for\ the\ FreeParking\ Class.\r\n\ @param\ manager\ The\ SquareManager\ that\ is\ in\ control\ of\ this\ square\r\n
+comment1.params=amount
+comment1.target=void\ addToPot(int)
+comment1.text=\r\n\ Adds\ the\ parametered\ amount\ to\ the\ free\ parking\ jackpot.\r\n\ @param\ amount\ The\ integer\ amount\ added\ to\ the\ jackpot\r\n
+comment2.params=player
+comment2.target=void\ jackPot(Player)
+comment2.text=\r\n\ Gives\ the\ jackpot\ to\ the\ parametered\ player.\ A\ popup\ Option\ menu\ tells\ people\ to\r\n\ confirm\ they\ just\ won\ big.\r\n\ @param\ player\ The\ player\ receiving\ the\ jackpot\r\n
+comment3.params=player
+comment3.target=boolean\ useSquare(Player)
+comment3.text=\r\n\ Directs\ the\ overriden\ useSquare\ method\ to\ the\ specific\ square's\ ability.\r\n\ @param\ player\ The\ player\ who\ is\ using\ the\ square's\ ability\r\n\ @return\ A\ boolean\ of\ whether\ they\ could\ pay\ or\ not\r\n
+numComments=4

@@ -1,0 +1,29 @@
+#BlueJ class context
+comment0.params=game
+comment0.target=CardSorter(Game)
+comment0.text=\r\n\ Constructor\ for\ the\ CardSorter\ class.\r\n\ @param\ game\ The\ Game\ currently\ being\ played,\ for\ communication.\r\n
+comment1.params=card
+comment1.target=void\ addCard(Card)
+comment1.text=\r\n\ Returns\ a\ card\ back\ to\ the\ correct\ pile\r\n\ @param\ card\ the\ card\ being\ returned\r\n
+comment2.params=x
+comment2.target=CardTypes\ associateType(int)
+comment2.text=\r\n\ Associates\ the\ number\ parametered\ with\ a\ certain\ enumerated\ CardTypes\ value.\r\n\ @param\ x\ An\ integer\ to\ be\ associated\ with\ a\ CardTypes\r\n\ @return\ The\ CardTypes\ associated\ with\ the\ integer\r\n
+comment3.params=player\ chanceCard
+comment3.target=void\ drawCard(Player,\ boolean)
+comment3.text=\r\n\ Draws\ the\ next\ card\ in\ the\ Chance\ or\ Community\ pile.\r\n\ @param\ player\ The\ player\ who\ is\ drawing\ the\ card\r\n\ @param\ chanceCard\ A\ boolean,\ true\ \=\ chance,\ false\ \=\ community\r\n
+comment4.params=player\ cardList
+comment4.target=void\ drawCardHelper(Player,\ java.util.ArrayList)
+comment4.text=\r\n\ A\ helper\ method\ which\ draws\ the\ next\ card\ in\ the\ parametered\ pile.\r\n\ @param\ player\ The\ player\ who\ is\ drawing\ the\ card\r\n\ @param\ cardList\ An\ arraylist\ of\ Cards\ to\ draw\ from.\r\n
+comment5.params=
+comment5.target=Game\ getGame()
+comment5.text=\r\n\ Gets\ the\ game\ currently\ being\ played.\r\n\ @return\ The\ Game\ being\ played\r\n
+comment6.params=
+comment6.target=SquaresManager\ getManager()
+comment6.text=\r\n\ Gets\ the\ current\ squareManager\ being\ used.\r\n\ @return\ The\ SquaresManager\ being\ used\r\n
+comment7.params=
+comment7.target=void\ loadData()
+comment7.text=\r\n\ Loads\ all\ the\ Card\ data\ from\ the\ cards.txt\ file\ and\ sets\ them.\r\n
+comment8.params=
+comment8.target=void\ shuffleCards()
+comment8.text=\r\n\ Shuffles\ the\ cards\ in\ both\ decks\ so\ as\ to\ randomize\ them.\r\n
+numComments=9

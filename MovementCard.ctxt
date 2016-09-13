@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=cardSorter
+comment0.target=MovementCard(CardSorter)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ movementCard\r\n\ @param\ cardSorter\ The\ CardSorter\ in\ charge\ of\ this\ card\r\n
+comment1.params=
+comment1.target=int\ getDestination()
+comment1.text=\r\n\ Gets\ the\ movement\ -\ where\ the\ player\ gets\ moved\ to\ -\ associated\ with\ the\ card.\r\n\ @return\ A\ Square\ to\ have\ the\ player\ move\ to.\r\n
+comment2.params=destination
+comment2.target=void\ setDestination(int)
+comment2.text=\r\n\ Sets\ the\ movement\ -\ where\ the\ player\ gets\ moved\ to\ -\ associated\ with\ the\ card.\r\n\ @param\ movement\ The\ property\ to\ be\ moved\ to\r\n
+comment3.params=
+comment3.target=boolean\ play()
+comment3.text=\r\n\ The\ special\ ability\ of\ this\ card.\ Moves\ the\ player\ to\ the\ square\ described\ on\ the\ card.\ If\r\n\ its\ a\ property\ they\ got\ to\ pay\ the\ rent.\r\n\ @return\ A\ boolean\ of\ whether\ it\ worked\ or\ not\r\n
+numComments=4

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MainMenu()
+comment0.text=\r\n\ The\ Constructor\ of\ the\ MainMenu.\r\n
+comment1.params=
+comment1.target=void\ startGame()
+comment1.text=\r\n\ Starts\ setting\ up\ the\ game\ by\ calling\ setup\ methods.\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ Catches\ ActionEvents\ and\ has\ them\ perform\ these\ actions\r\n\ @param\ e\ The\ ActionEvent\ being\ caught\r\n
+comment3.params=
+comment3.target=void\ chooseTokens()
+comment3.text=\r\n\ Makes\ the\ user\ select\ which\ tokens\ are\ being\ used.\r\n
+comment4.params=
+comment4.target=Player[]\ getPlayers()
+comment4.text=\r\n\ Gets\ the\ players\ decided\ upon.\r\n\ @return\ An\ array\ of\ players\ who\ are\ playing.\r\n
+comment5.params=
+comment5.target=Token[]\ getTokens()
+comment5.text=\r\n\ Gets\ the\ tokens\ decided\ upon.\r\n\ @return\ An\ array\ of\ tokens\ being\ used.\r\n
+comment6.params=
+comment6.target=boolean\ namePlayers()
+comment6.text=\r\n\ Makes\ the\ user\ enter\ the\ names\ of\ the\ players.\r\n\ @return\ boolean\ Whether\ they\ answered\ or\ not\r\n
+comment7.params=
+comment7.target=int\ numberOfPlayers()
+comment7.text=\r\n\ Makes\ the\ user\ choose\ the\ number\ of\ players\ playing.\r\n\ @return\ An\ integer\ number\ of\ players\ selected\r\n
+numComments=8

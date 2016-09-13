@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=manager
+comment0.target=RailRoad(SquaresManager)
+comment0.text=\r\n\ Constructor\ for\ the\ RailRoad\ Class.\ Borrows\ parent\ Constructor,\ but\ changes\ the\r\n\ prices\ array\ to\ length\ 4.\r\n\ @param\ manager\ The\ SquareManager\ in\ charge\ of\ this\ square\r\n
+comment1.params=
+comment1.target=boolean\ addHouse()
+comment1.text=\r\n\ Overrides\ parent\ method\ so\ no\ houses\ can\ be\ added.\r\n\ @return\ A\ boolean\ always\ of\ false\r\n
+comment2.params=
+comment2.target=int\ getWorth()
+comment2.text=\r\n\ Overriding\ method\ that\ gets\ the\ cost\ for\ purchasing\ railroad\ property.\r\n\ @return\ An\ integer\ price\ associated\ with\ the\ railroad\r\n
+comment3.params=factor
+comment3.target=int\ payRent(boolean)
+comment3.text=\r\n\ Makes\ the\ player\ pay\ a\ rent\ dependent\ on\ who\ owns\ the\ other\ properties.\r\n\ @param\ factor\ A\ boolean\ of\ whether\ or\ not\ someone\ is\ using\ the\ railroad\ card.\r\n\ @return\ The\ integer\ amount\ of\ rent\r\n
+comment4.params=
+comment4.target=int\ payRent()
+comment4.text=\r\n\ A\ second\ payRent()\ method\ that\ calls\ the\ first\ with\ a\ default\ false.\r\n\ @return\ An\ integer\ rental\r\n
+comment5.params=
+comment5.target=boolean\ removeHouse()
+comment5.text=\r\n\ Overrides\ parent\ method\ so\ no\ houses\ can\ be\ subtracted.\r\n\ @return\ A\ boolean\ always\ of\ false\r\n
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=cardSorter
+comment0.target=JailCard(CardSorter)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ JailCard\r\n\ @param\ cardSorter\ The\ CardSorter\ in\ charge\ of\ this\ card\r\n
+comment1.params=
+comment1.target=boolean\ play()
+comment1.text=\r\n\ The\ special\ ability\ of\ this\ card.\ Immediately\ moves\ the\ person\ to\ jail\ if\ they\ aren't\r\n\ already\ there.\r\n\ @return\ A\ boolean\ of\ whether\ it\ worked\ or\ not\r\n
+numComments=2
